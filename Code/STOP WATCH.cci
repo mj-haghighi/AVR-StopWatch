@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4D9F7135
+NODE:I LEVEL:0 LINE:24 "X:\Installation\CODVISION\inc\mega32.h"
+NODE:V LEVEL:0 LINE:27 "tot_overflow -> R5"
+NODE:F LEVEL:0 LINE:29 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:34 "timer0_init(void)"
+NODE:F LEVEL:0 LINE:43 "main(void)"
